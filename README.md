@@ -60,13 +60,15 @@
 <h2 align="center">Competitive Programming and coding</h2>
 Passionate about competitive programming and coding challenges, with experience solving algorithmic problems and improving problem-solving skills through online contests and practice.I love competitive programming because it enhances my problem-solving skills, logical thinking, and algorithmic knowledge. I enjoy solving challenging problems and continuously improving my coding abilities.
 
-<img src="https://sta.codeforces.com/s/0/apple-icon-180x180.png" alt="Codeforces Logo">
+<div align='center'>
+  <img src="https://sta.codeforces.com/s/0/apple-icon-180x180.png" alt="Codeforces Logo">
 <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codeforces.svg"
          alt="Codeforces Logo"
          width="120">
          <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/hackerrank.svg"
      alt="HackerRank Logo"
      width="100">
+</div>
 
   
-</div>
+
