@@ -59,6 +59,11 @@
 ###
 <h2 align="center">Competitive Programming and coding</h2>
 Passionate about competitive programming and coding challenges, with experience solving algorithmic problems and improving problem-solving skills through online contests and practice.
+Passionate about Competitive Programming and Problem Solving.
+Competitive Programming Enthusiast.
+Passionate Competitive Programmer with strong problem-solving skills.
+Enthusiastic about Competitive Programming and Coding Challenges.
+Passionate about solving algorithmic problems through Competitive Programming.
 <div align='center'>
 <img src="https://sta.codeforces.com/s/0/apple-icon-180x180.png" alt="Codeforces Logo">
 <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codeforces.svg"
