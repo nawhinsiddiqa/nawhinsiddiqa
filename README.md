@@ -58,4 +58,11 @@
 
 ###
 <h2 align="center">Competitive Programming and coding</h2>
+Passionate about competitive programming and coding challenges, with experience solving algorithmic problems and improving problem-solving skills through online contests and practice.
 <img src="https://sta.codeforces.com/s/0/apple-icon-180x180.png" alt="Codeforces Logo">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codeforces.svg"
+         alt="Codeforces Logo"
+         width="120">
+         <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/hackerrank.svg"
+     alt="HackerRank Logo"
+     width="100">
